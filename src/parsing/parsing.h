@@ -1,8 +1,8 @@
-#pragma once
+// #pragma once
 
-#include <stdint.h>
+// #include <stdint.h>
 
-struct FaceMovement {
-    uint16_t degrees;
-    char face;
-}
+// struct FaceMovement {
+//     uint16_t degrees;
+//     char face;
+// }
